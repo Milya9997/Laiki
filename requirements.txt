@@ -1,2 +1,3 @@
-vk_api
 Flask
+requests
+vk_api
